@@ -1,0 +1,17 @@
+{
+  "name": "CustomBet 14",
+  "short_name": "CustomBet14",
+  "description": "Palpites de futebol inteligentes baseados em IA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/532/532195.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
